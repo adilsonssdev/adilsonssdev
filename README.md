@@ -16,15 +16,15 @@ Atualmente, lidero projetos de dados na Suzano, utilizando Alteryx, GCP e SAP pa
 - 🔎 Você também me encontra em:
 
 <div style="dispay: inline">
-<a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/adilsonssdev">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/adilsonssdev">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pradilsonsantana@gmail.com?subject=Contato&body=Olá, gostaria de falar sobre...">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
  </div>
 
 
