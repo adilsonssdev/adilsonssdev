@@ -7,20 +7,22 @@ Atualmente, lidero projetos de dados na Suzano, utilizando Alteryx, GCP e SAP pa
 
 - 💻 Atualmente mais focado em:
 
-
- <div style="dispay: inline">
-<img width='50'height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width='50'height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
- </div>
-
+<div style="dispay: inline">
+  <img width='50'height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width='50'height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
 
 - 🔎 Você também me encontra em:
 
+<div style="dispay: inline">
 <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+ </div>
 
 
 <!--
