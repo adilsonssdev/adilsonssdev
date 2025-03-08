@@ -19,8 +19,11 @@ Atualmente, lidero projetos de dados na Suzano, utilizando Alteryx, GCP e SAP pa
 <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+<a href="https://github.com/adilsonssdev">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  </div>
 
