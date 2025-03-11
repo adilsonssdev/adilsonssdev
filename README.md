@@ -156,7 +156,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
       align="left" 
       alt="LinkedIn"
       title="LinkedIn" 
-      width="40px" 
+      width="35px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
       />
