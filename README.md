@@ -25,7 +25,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ---
 
-### 🧰 Atualmente mais focado em:  
+### 👨‍💻 Atualmente mais focado em:  
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img 
