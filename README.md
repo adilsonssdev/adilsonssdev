@@ -92,38 +92,40 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Alteryx-0078D4?style=flat-square&logo=alteryx&logoColor=white" 
   />
-  <img 
+  <!-- <img 
     align="left" 
     alt="Power Apps"
     title="Power Apps" 
     width="135px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" 
-  />
+  />-->
   <img 
     align="left" 
     alt="Power Automate"
     title="Power Automate" 
-    width="135px" 
+    width="175px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" 
   />
-  <img 
+ <!--<img 
     align="left" 
     alt="Power Query"
     title="Power Query" 
     width="120px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" 
-  />
+  />-->
 </div>
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 <br/>
 
 ### 📊 Estatísticas
+<div>
 <p>
   <img 
+    height = "180em"
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -132,13 +134,16 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
   />
 
 <img 
+      height = "180em"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> 
+</div> 
+
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
 ---
