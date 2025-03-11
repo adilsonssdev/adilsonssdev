@@ -25,7 +25,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ---
 
-### 💻 Atualmente mais focado em:  
+### 🧰 Atualmente mais focado em:  
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img 
@@ -133,13 +133,13 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
     src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+<!--<img 
       height = "180em"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  />-->
 
 </p> 
 </div> 
