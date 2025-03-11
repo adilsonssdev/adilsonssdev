@@ -92,14 +92,14 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Alteryx-0078D4?style=flat-square&logo=alteryx&logoColor=white" 
   />
-  <!-- <img 
+  <img 
     align="left" 
     alt="Power Apps"
     title="Power Apps" 
     width="135px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" 
-  />-->
+  />
   <img 
     align="left" 
     alt="Power Automate"
