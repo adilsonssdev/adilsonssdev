@@ -166,9 +166,9 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
       align="left" 
       alt="GitHub"
       title="GitHub" 
-      width="100px" 
+      width="35x" 
       style="padding-right: 10px;" 
-      src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
     />
   </a>
   <a href="mailto:pradilsonsantana@gmail.com?subject=Contato&body=Olá, gostaria de falar sobre...">
