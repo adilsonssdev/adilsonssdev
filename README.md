@@ -1,4 +1,4 @@
-### Olá, me chamo Adilson 😊  
+# Olá, me chamo Adilson 😊  
 
 Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis. Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
 
