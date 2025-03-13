@@ -129,6 +129,7 @@
 <div align="left">
   <a href="https://github.com/adilsonssdev">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
 
