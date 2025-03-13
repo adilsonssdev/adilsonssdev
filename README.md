@@ -2,13 +2,10 @@
 
 <div>
   <p>
-   Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis.
-   
-   Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
-   
-   Para consolidar essa transição, concluí um **MBA em Gestão de Projetos de TI (2022)**, uma **Pós-Graduação em Análise e Desenvolvimento de Sistemas (2023)** e um **MBA em Engenharia de Dados (2024)**. 
-   
-   Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e SAP** para otimizar processos e impulsionar a inovação.
+   Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis.   
+   Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na <strong>Suzano</strong> em 2020, onde trabalhei com <strong>Power BI, Power Apps e Power Automate</strong>.  
+   Para consolidar essa transição, concluí um <strong>MBA em Gestão de Projetos de TI (2022)</strong>, uma <strong>Pós-Graduação em Análise e Desenvolvimento de Sistemas (2023)</strong> e um <strong>MBA em Engenharia de Dados (2024)</strong>. 
+   Atualmente, lidero <strong>projetos de dados na Suzano</strong>, utilizando <strong>Alteryx, GCP e SAP</strong> para otimizar processos e impulsionar a inovação.
   </p>
 </div>
   
