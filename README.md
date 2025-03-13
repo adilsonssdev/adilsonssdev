@@ -126,7 +126,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 <div align="left">
   <a href="https://github.com/adilsonssdev">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true"/>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&layout=compact&theme=dracula"/>   
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&layout=compact&theme=dracula"   
   />
   </a>
 </div>
