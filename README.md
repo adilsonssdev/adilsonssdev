@@ -26,7 +26,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ---
 
-### 👨‍💻 Atualmente mais focado em:  
+### 👨‍💻 🚀 Atualmente mais focado em:  
 
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img 
@@ -123,18 +123,13 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ### 📊 Estatísticas GitHub
 
-<table >
-  <tr>
-    <a href="https://github.com/adilsonssdev">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-      </a>
-  </tr>
-   <tr>
-      <a href="https://github.com/adilsonssdev">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"/>
-      </a>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/adilsonssdev">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
 
 <!--<br clear="both"/> --> <!-- Limpa os floats das imagens -->
 ---
