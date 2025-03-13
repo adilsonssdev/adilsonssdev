@@ -126,23 +126,12 @@
 
 ### 📊 Estatísticas GitHub
 
-<!--<div align="left">
+<div align="left">
   <a href="https://github.com/adilsonssdev">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true"/>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&layout=compact&theme=dracula"   
-  />
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
   </a>
-</div>-->
-
-<div align="center">
-  <a href="https://github.com/adilsonssdev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
-  
-<br clear="both"/> <!-- Limpa os floats das imagens -->
 
  ---
 
