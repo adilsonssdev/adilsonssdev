@@ -131,14 +131,14 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
       </a>
     </td>
     <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      <a href="https://github.com/adilsonssdev">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      </a>
     </td>
   </tr>
 </table>
 
-
-<br clear="both"/> <!-- Limpa os floats das imagens -->
-
+<!--<br clear="both"/> --> <!-- Limpa os floats das imagens -->
 ---
 
 ### 🔎 Você também me encontra em:  
