@@ -123,7 +123,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ### 📊 Estatísticas GitHub
 
-<table>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/adilsonssdev">
@@ -135,11 +135,6 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
