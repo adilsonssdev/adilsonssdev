@@ -1,6 +1,7 @@
 # Olá, me chamo Adilson 😊  
 
-Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis. Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
+Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis. 
+Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
 
 Para consolidar essa transição, concluí um **MBA em Gestão de Projetos de TI (2022)**, uma **Pós-Graduação em Análise e Desenvolvimento de Sistemas (2023)** e um **MBA em Engenharia de Dados (2024)**. 
  
@@ -119,7 +120,6 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 </div>
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
-<br/>
 
 ### 📊 Estatísticas GitHub
 
