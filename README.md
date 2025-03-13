@@ -123,52 +123,74 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ### 📊 Estatísticas GitHub
 
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/adilsonssdev">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dracula&include_all_commits=true&hide_rank=true"/>
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&layout=compact&theme=dracula"   
   />
   </a>
-</div>
+</div>-->
+
+<div align="center">
+ <a href="https://github.com/adilsonssdev">
+  <img 
+    height = "180em"
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      height = "180em"
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div> 
 
 
-<!--<br clear="both"/> --> <!-- Limpa os floats das imagens -->
+<br clear="both"/>  <!-- Limpa os floats das imagens -->
 ---
 
 ### 🔎 Você também me encontra em:  
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
-    <img 
-      align="left" 
-      alt="LinkedIn"
-      title="LinkedIn" 
-      width="35px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-      />
+      <img 
+        align="left" 
+        alt="LinkedIn"
+        title="LinkedIn" 
+        width="35px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+        />
   </a>
   <a href="https://github.com/adilsonssdev">
-    <img 
-      align="left" 
-      alt="GitHub"
-      title="GitHub" 
-      width="35x" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
+      <img 
+        align="left" 
+        alt="GitHub"
+        title="GitHub" 
+        width="35x" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+      />
   </a>
   <a href="mailto:pradilsonsantana@gmail.com?subject=Contato&body=Olá, gostaria de falar sobre...">
-    <img 
-      align="left" 
-      alt="Gmail"
-      title="Gmail" 
-      width="100px" 
-      style="padding-right: 10px;" 
-      src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" 
-    />
+     <img 
+       align="left" 
+       alt="Gmail"
+       title="Gmail" 
+       width="100px" 
+       style="padding-right: 10px;" 
+       src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" 
+     />
   </a>
 </div>
+
+
+
 
 <!--
 **adilsonssdev/adilsonssdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
