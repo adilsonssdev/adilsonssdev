@@ -1,11 +1,17 @@
 # Olá, me chamo Adilson 😊  
 
-Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis. 
-Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
-
-Para consolidar essa transição, concluí um **MBA em Gestão de Projetos de TI (2022)**, uma **Pós-Graduação em Análise e Desenvolvimento de Sistemas (2023)** e um **MBA em Engenharia de Dados (2024)**. 
- 
-Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e SAP** para otimizar processos e impulsionar a inovação.  
+<div>
+  <p>
+   Iniciei minha trajetória profissional em 2013, graduando-me em Engenharia Civil. Atuei por seis anos na área de logística, com foco em recebimento fiscal e metodologias ágeis.
+   
+   Minha paixão por tecnologia me levou a migrar para a área de dados, ingressando na **Suzano** em 2020, onde trabalhei com **Power BI, Power Apps e Power Automate**.  
+   
+   Para consolidar essa transição, concluí um **MBA em Gestão de Projetos de TI (2022)**, uma **Pós-Graduação em Análise e Desenvolvimento de Sistemas (2023)** e um **MBA em Engenharia de Dados (2024)**. 
+   
+   Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e SAP** para otimizar processos e impulsionar a inovação.
+  </p>
+</div>
+  
 
 <p align="left">
     <a href="https://github.com/adilsonssdev?tab=repositories&sort=stargazers">
@@ -132,6 +138,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 </div>-->
 
 <div align="center">
+
  <a href="https://github.com/adilsonssdev">
   <img 
     height = "180em"
@@ -141,6 +148,7 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
 <img 
       height = "180em"
       align="left" 
@@ -149,10 +157,10 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div> 
-
-
+  
 <br clear="both"/>  <!-- Limpa os floats das imagens -->
----
+
+ ---
 
 ### 🔎 Você também me encontra em:  
 
@@ -188,21 +196,3 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
      />
   </a>
 </div>
-
-
-
-
-<!--
-**adilsonssdev/adilsonssdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
