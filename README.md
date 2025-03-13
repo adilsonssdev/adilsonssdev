@@ -123,12 +123,18 @@ Atualmente, lidero **projetos de dados na Suzano**, utilizando **Alteryx, GCP e 
 
 ### 📊 Estatísticas GitHub
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/adilsonssdev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/adilsonssdev">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+      </a>
+    </td>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    </td>
+  </tr>
+</table>
 
 
 
