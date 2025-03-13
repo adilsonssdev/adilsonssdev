@@ -153,14 +153,14 @@
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</div>--> 
+    />--> 
+</div>
   
-<br clear="both"/>  <!-- Limpa os floats das imagens -->
+<br clear="both"/> <!-- Limpa os floats das imagens -->
 
  ---
 
-### 🔎 Você também me encontra em:  
+### 🔎 Você também me encontra em:
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
