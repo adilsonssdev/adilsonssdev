@@ -62,7 +62,7 @@
     title="Azure SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://skillicons.dev/icons?i=mysql"
   />
   <img 
     align="left" 
@@ -80,6 +80,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
     />
+ <img 
+    align="left" 
+    alt="PS"
+    title="PS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=ps" 
+  />
   <img 
     align="left" 
     alt="Power BI"
@@ -112,14 +120,6 @@
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" 
   />
- <!--<img 
-    align="left" 
-    alt="Power Query"
-    title="Power Query" 
-    width="120px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white" 
-  />-->
 </div>
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
@@ -128,8 +128,11 @@
 
 <div align="left">
   <a href="https://github.com/adilsonssdev">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=adilsonssdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
-    <img height = "180em" src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonssdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <div align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=adilsonssdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilsonssdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilsonssdev&radius=16&theme=one-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
   </a>
 </div>
 
