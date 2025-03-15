@@ -184,6 +184,8 @@
   </a>
 </div>
 
-<div 
+- Contribuições:
 <img src="https://raw.githubusercontent.com/adilsonssdev/adilsonssdev/output/snake.svg" alt="Snake animation" />
-</div>
+<hr><br>
+
+CALL ME JB
