@@ -172,4 +172,14 @@
        src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" 
      />
   </a>
+  <a href="https://github.com/adilsonssdev">
+      <img 
+        align="left" 
+        alt="discord"
+        title="discord" 
+        width="35px" 
+        style="padding-right: 10px;" 
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+      />
+  </a>
 </div>
