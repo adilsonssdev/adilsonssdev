@@ -184,8 +184,14 @@
   </a>
 </div>
 
-- Contribuições:
-<img src="https://raw.githubusercontent.com/adilsonssdev/adilsonssdev/output/snake.svg" alt="Snake animation" />
-<hr><br>
+<br clear="both"/> <!-- Limpa os floats das imagens -->
 
-CALL ME JB
+
+<!--### Contribuições:
+
+<div>
+     
+ <img src="https://raw.githubusercontent.com/adilsonssdev/adilsonssdev/output/snake.svg" alt="Snake animation" />
+
+</div>-->
+
