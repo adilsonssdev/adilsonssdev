@@ -172,7 +172,7 @@
        src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" 
      />
   </a>
-  <a href= "https://discord.com/adilsonss"
+  <a href= "https://discord.com/adilsonss">
       <img 
         align="left" 
         alt="discord"
