@@ -27,10 +27,12 @@
     </a>
 </p>
 
----
+<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ### 👨‍💻 🚀 Atualmente mais focado em:  
 
+
+<!--
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img 
     align="left" 
@@ -124,6 +126,10 @@
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
+<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/stack.png?raw=true" />
+
+<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+
 ### 📊 Estatísticas GitHub
 
 <div align="left">
@@ -142,7 +148,7 @@
 
 ###
 
- ---
+<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ### 🔎 Você também me encontra em:
 
