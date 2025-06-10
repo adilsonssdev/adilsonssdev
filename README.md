@@ -126,7 +126,7 @@
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
-<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/stack.png?raw=true" />
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/Skill_V1.jpg?raw=true" />
 
 <img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
