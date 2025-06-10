@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ### 👨‍💻 🚀 Atualmente mais focado em:  
 
@@ -126,9 +126,9 @@
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
-<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/stack.png?raw=true" />
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/stack.png?raw=true" />
 
-<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ### 📊 Estatísticas GitHub
 
@@ -148,7 +148,7 @@
 
 ###
 
-<img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 ### 🔎 Você também me encontra em:
 
