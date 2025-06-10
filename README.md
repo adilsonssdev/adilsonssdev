@@ -125,7 +125,7 @@
 
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
-<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/Skill_V1.jpg?raw=true" width="65%" height="55px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/Skill.jpg?raw=true" width="65%" height="55px"/>
 
 <img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
