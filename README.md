@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
 ### 👨‍💻 🚀 Atualmente mais focado em:  
 
@@ -127,7 +127,7 @@
 
 <img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/Skill_V1.jpg?raw=true" width="55%" height="45px"/>
 
-<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
 ### 📊 Estatísticas GitHub
 
@@ -147,7 +147,7 @@
 
 ###
 
-<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
 ### 🔎 Você também me encontra em:
 
