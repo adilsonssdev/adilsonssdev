@@ -197,6 +197,11 @@
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
 
+# **Projetos interessantes**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=ChatbotGPT&theme=github_dark)](https://github.com/AntonnyMendonca2/ChatbotGPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Video-Picpay&theme=github_dark)](https://github.com/AntonnyMendonca2/Video-Picpay)
+
+
 <!--### Contribuições:
 
 <div>
