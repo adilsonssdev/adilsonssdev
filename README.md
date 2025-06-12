@@ -149,6 +149,12 @@
 
 <img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
 
+### 💻 Projetos interessantes:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilsonssdev&repo=Gerando_DocPBIX_Via_PYTHON&theme=github_dark)](https://github.com/adilsonssdev/Gerando_DocPBIX_Via_PYTHON)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adilsonssdev&repo=Sistema_Bancario_DIO&theme=github_dark)](https://github.com/adilsonssdev/Sistema_Bancario_DIO)
+
+<img src="https://github.com/adilsonssdev/adilsonssdev/blob/main/assets/LineBar.png?raw=true" width="100%" height="5px"/>
+
 ### 🔎 Você também me encontra em:
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
@@ -197,9 +203,7 @@
 <br clear="both"/> <!-- Limpa os floats das imagens -->
 
 
-# **Projetos interessantes**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=ChatbotGPT&theme=github_dark)](https://github.com/AntonnyMendonca2/ChatbotGPT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AntonnyMendonca2&repo=Video-Picpay&theme=github_dark)](https://github.com/AntonnyMendonca2/Video-Picpay)
+
 
 
 <!--### Contribuições:
