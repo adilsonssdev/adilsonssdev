@@ -173,10 +173,10 @@
         align="left" 
         alt="GitHub"
         title="GitHub" 
-        width="35x" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-      />
+        width="35px" 
+        style="padding-right: 10px; filter: brightness(0) invert(1) !important;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   
+       />
   </a>
   <a href="mailto:pradilsonsantana@gmail.com?subject=Contato&body=Olá, gostaria de falar sobre...">
      <img 
@@ -196,6 +196,16 @@
         width="35px" 
         style="padding-right: 10px;" 
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+      />
+  </a>
+  <a href= "https://adilsonssdev.netlify.app/">
+      <img 
+        align="left" 
+        alt="Portfólio"
+        title="Portfólio" 
+        width="150px" 
+        style="padding-right: 10px;" 
+        src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white"
       />
   </a>
 </div>
