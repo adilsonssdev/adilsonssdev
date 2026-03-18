@@ -158,7 +158,7 @@
 ### 🔎 Você também me encontra em:
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/adilson-santos-santana-99185289/">
+  <a href="https://www.linkedin.com/in/adilsonsantana/">
       <img 
         align="left" 
         alt="LinkedIn"
